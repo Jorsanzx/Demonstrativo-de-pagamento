@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/logo_zxsoft_reduced.png</file>
+    <file>img/logo_zxsoft.png</file>
+  </qresource>
+</RCC>
